@@ -18,7 +18,7 @@ FocusTimer- Pomodoro V2 é um Relógio pomodoro feito como projeto desafio do St
 </div>
  
   
-## 🔗 Link da aplicação no ar: 
+## 🔗 Link da aplicação no ar: https://cg-pomodorov2.netlify.app/
   
 ## :rocket: Tecnologias
 
